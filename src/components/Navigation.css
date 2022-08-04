@@ -1,0 +1,12 @@
+nav {
+    border: 1px solid black;
+    margin: 8px;
+}
+
+.Nav-ul {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    list-style: none;
+    padding: 16px 0 16px 0;
+}

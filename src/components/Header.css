@@ -1,0 +1,39 @@
+ .Header {
+     margin: 8px;
+     border: 1px solid black;
+ }
+
+ .header__container {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .Header-img {
+     width: 10%;
+     height: 10%;
+     padding: 24px;
+ }
+
+ .lista_input {
+     display: flex;
+     justify-content: flex-end;
+     flex-direction: column;
+     align-items: flex-end;
+ }
+
+ .Header-ul {
+     display: flex;
+     justify-content: flex-end;
+     list-style: none;
+     padding: 16px;
+ }
+
+ .Header-li {
+     padding-right: 16px;
+ }
+
+ .Header-input {
+     display: flex;
+     justify-content: flex-end;
+     margin: 16px 32px 16px 0;
+ }

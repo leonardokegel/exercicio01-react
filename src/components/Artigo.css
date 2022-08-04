@@ -1,0 +1,18 @@
+.Artigo-img {
+    border: 1px solid black;
+    margin-right: 16px;
+}
+
+.Artigo-p-div {
+    border: 1px solid black;
+    width: 900px;
+}
+
+.Artigo-p {
+    padding: 8px;
+}
+
+.Div-principal {
+    display: flex;
+    margin: 8px;
+}
